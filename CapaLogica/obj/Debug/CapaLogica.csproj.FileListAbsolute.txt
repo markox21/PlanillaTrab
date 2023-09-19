@@ -1,0 +1,6 @@
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaLogica\obj\Debug\CapaLogica.pdb

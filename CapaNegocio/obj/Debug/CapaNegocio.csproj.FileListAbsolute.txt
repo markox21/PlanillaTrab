@@ -1,0 +1,6 @@
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\MARKO-PC\Desktop\CRUDNCAPAS\Planilla\CapaNegocio\obj\Debug\CapaNegocio.pdb
